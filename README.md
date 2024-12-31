@@ -17,3 +17,20 @@
 2.	Made sure that data is consistent and clean by verifying the excel data with the queries ran
 3.	Created pivot tables according to the questions asked
 4.	Merged the pivot tables into a dashboard and added a dynamic slicer.
+## Charts Created
+We would like to visualize aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts.
+1.	Daily Trend for total Orders = Days of the week as against Orders (bar chart).
+2.	Hourly Trend for total Orders = Time of the day as against Orders (Line graph).
+3.	Percentage of Sales by pizzas category = Pizza categories as against sales
+4.	Percentage of Sales by size category = Pizza size as against sales.
+5.	Total Pizza sold by Category = total sum of quantity as against the Pizza Catrgory.
+6.	Top 5 best sellers from total pizzas sold = bar chart of Pizza order against sales.
+7.	Worst 5 sellers from sales = bar chart of Pizza order against sales.
+## Insights
+1.	Classic Pizza sells more than any other pizza category, hence he can increase the marketing of the other category 
+2.	The Peak time for sales is during lunch breaks and dinner time and also towards the weekend, he should endeavor to have 
+    enough staff available to ensure smooth and faster preparations and delivery.
+3.	People prefer the Extra-Large pizza as the data above shows that they are his major revenue generators.
+4.	Brie Carie are the worst sellers in his pizza menu, place more adverts on Brie Carie and change the taste as the data above shows that it is least in demand.
+
+
