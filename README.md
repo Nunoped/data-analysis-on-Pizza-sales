@@ -13,7 +13,7 @@
 
 <a href = "https://github.com/Nunoped/data-analysis-on-Pizza-sales/blob/main/Dashboard%20Screenshot.PNG"> View Dashboard </a>
 ## Process
-•	Verified data for any missing values and anomalies, as well as sort the data
-•	Made sure that data is consistent and clean by verifying the excel data with the queries ran
-•	Created pivot tables according to the questions asked
-•	Merged the pivot tables into a dashboard and added a dynamic slicer.
+1.	Verified data for any missing values and anomalies, as well as sort the data.
+2.	Made sure that data is consistent and clean by verifying the excel data with the queries ran
+3.	Created pivot tables according to the questions asked
+4.	Merged the pivot tables into a dashboard and added a dynamic slicer.
