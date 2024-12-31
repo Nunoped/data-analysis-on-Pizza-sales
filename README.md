@@ -9,6 +9,8 @@
 4.	Total Orders = The total number of orders placed.
 5.	Average Pizzas per Order = Total number of Pizzas sold/ total number of Orders.
 ## Dashboard Image
+![Dashboard Screenshot](https://github.com/user-attachments/assets/861e2685-72d5-492a-bc0d-c99c0238b570)
+
 <a href = "https://github.com/Nunoped/data-analysis-on-Pizza-sales/blob/main/Dashboard%20Screenshot.PNG"> View Dashboard </a>
 ## Process
 •	Verified data for any missing values and anomalies, as well as sort the data
