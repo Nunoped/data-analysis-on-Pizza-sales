@@ -1,2 +1,2 @@
 # data-analysis-on-Pizza-sales
-I developed a comprehensive project in excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, data cleaning, and data visualization. I also performed some mathematical and analytical operation by querying the data and extracting insights on my data using MySQL.
+## A pizza sales shop wants to know his annual revenue from his sales so that he can make more informed decisions with regards to his production using a 2015 sales dataset.
