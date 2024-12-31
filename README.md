@@ -8,4 +8,10 @@
 3.	Total Pizzas sold = The sum of all the quantity of all the pizzas sold.
 4.	Total Orders = The total number of orders placed.
 5.	Average Pizzas per Order = Total number of Pizzas sold/ total number of Orders.
-<a href = "https://drive.google.com/file/d/1ElwlkkdcA96CdVTwvXIXU1UKRGXYt7Yp/view?usp=drive_link"> View Dashboard </a>
+## Dashboard Image
+<a href = "https://github.com/Nunoped/data-analysis-on-Pizza-sales/blob/main/Dashboard%20Screenshot.PNG"> View Dashboard </a>
+## Process
+•	Verified data for any missing values and anomalies, as well as sort the data
+•	Made sure that data is consistent and clean by verifying the excel data with the queries ran
+•	Created pivot tables according to the questions asked
+•	Merged the pivot tables into a dashboard and added a dynamic slicer.
